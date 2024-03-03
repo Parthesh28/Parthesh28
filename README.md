@@ -1,8 +1,8 @@
 <samp>
-    <h3>This is Parthesh, a Certified Noob</h3>
-    <h3>Languages and frameworks I know: </h3>
-    <code>React</code> <code>JavaScript</code> <code>Rust</code> <code>Nodejs</code> <code>GoLang</code>
-    <h3>These are my coding stats:</h3>
+    <h3>This is Parthesh, a software and Web Developer</h3>
+    <h3>Programming Skills: </h3>
+    <code>Next</code> <code>React</code> <code>JavaScript</code> <code>Rust</code> <code>Node.Js</code> <code>GoLang</code>
+    <h3>My Coding Stats:</h3>
 <!--START_SECTION:waka-->
 
 ```txt
