@@ -6,11 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           1 hr 6 mins     █████████████████████████   99.89 %
-Properties       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
-TOML             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
