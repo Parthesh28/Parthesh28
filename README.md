@@ -6,8 +6,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 8 mins     ███████████████████████░░   92.12 %
-JSON         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
