@@ -1,8 +1,8 @@
 <samp>
-    <h3>Hey, this is Parthesh, a Full Stack Web-developer</h3>
+    <h3>Hi, this is Parthesh, a Web2 and Web3 developer</h3>
     <h3>Programming Skills: </h3>
-    <code>Next.js</code> <code>React.js</code> <code>JavaScript</code> <code>Node.Js</code> <code>Java</code>
-    <h3>Weekly Coding Stats:</h3>
+    <code>Next.js</code> <code>Go Lang</code> <code>Blockchain</code> <code>Node.Js</code> <code>Java</code> <code>Android<code/>
+    <h3>Daily Coding Stats:</h3>
 <!--START_SECTION:waka-->
 
 ```txt
