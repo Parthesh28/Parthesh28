@@ -1,8 +1,8 @@
 <samp>
-    <h1>Hey, this is Parthesh, a Software Engineer</h2>
-    <h2>Technical Skills: </h3>
+    <h2>Hey, this is Parthesh, a Software Engineer</h2>
+    <h3>Technical Skills: </h3>
     <code>Java</code> <code>Go Lang</code> <code>Next.js</code> <code>Node.js</code> <code>Blockchain</code> <code>Android</code>
-    <h2>Weekly coding stats:</h3>
+    <h3>Weekly coding stats:</h3>
 <!--START_SECTION:waka-->
 
 ```txt
