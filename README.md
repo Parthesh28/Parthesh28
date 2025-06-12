@@ -6,7 +6,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua     13 mins         ███████████████████████░░   91.40 %
+Other   1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 %
+JSON    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+TOML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
